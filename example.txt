@@ -1,4 +1,8 @@
 This is the first file adding
 This is second line updating in the file
 This is third line updating in the file
+<<<<<<< HEAD
 This is forth line updating in the file.
+=======
+This is fouth line adding from github project folder.
+>>>>>>> 973e1aa24f4beb49eb716b01e1199e98ca4dc222
